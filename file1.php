@@ -24,4 +24,4 @@ $response = $service->spreadsheets_values->get($spreadsheetId, $get_range);
 
 $values = $response->getValues();
 
-print_r( $values ); die('kkkkkkjjjjjjjjjjjjjjjjjjjjjj');
+print_r( $values ); die();
