@@ -2,7 +2,7 @@
 require __DIR__ . '/vendor/autoload.php';
 
 
-//Reading data from spreadsheet.
+//Rssseading data from spreadsheet.
 
 $client = new \Google_Client();
 
